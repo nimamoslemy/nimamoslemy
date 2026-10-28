@@ -79,6 +79,10 @@ I'm a PhD researcher in Mechanical Engineering at **Heriot-Watt University**, wo
 
 Programs and tools for detecting defects in LPBF-produced parts, including machine learning models, image analysis scripts, and simulation-based approaches to quality assurance.
 
+### ⏱️ [Modern Timer](https://github.com/nimamoslemy/ModernTimer)
+
+A modern, portable timer and stopwatch for Windows: one small `.exe`, no installer. Progress ring, compact, bar and full-screen views, and two themes. Built in C++ with Direct2D. [Download](https://github.com/nimamoslemy/ModernTimer/releases/latest)
+
 ### 🌐 [Research portfolio](https://nimamoslemy.github.io/)
 
 Explore my research, experience, publications, and work across additive manufacturing and biomedical engineering.
