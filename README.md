@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/nimamoslemy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=oj20_dkAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Nima-Moslemy"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=07090E" /></a>
-  <a href="mailto:nm4015@hw.ac.uk"><img alt="Email" src="https://img.shields.io/badge/nm4015%40hw.ac.uk-334155?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
