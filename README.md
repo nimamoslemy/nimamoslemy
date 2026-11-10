@@ -91,6 +91,6 @@ I am a PhD researcher in Mechanical Engineering at **Heriot-Watt University** (E
 
 <div align="center">
 
-[**🌐 Portfolio Website**](https://nimamoslemy.github.io/) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/nimamoslemy/) &nbsp;·&nbsp; [**🎓 Google Scholar**](https://scholar.google.com/citations?user=oj20_dkAAAAJ&hl=en) &nbsp;·&nbsp; [**✉️ nm4015@hw.ac.uk**](mailto:nm4015@hw.ac.uk)
+[**🌐 Portfolio Website**](https://nimamoslemy.github.io/) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/nimamoslemy/) &nbsp;·&nbsp; [**🎓 Google Scholar**](https://scholar.google.com/citations?user=oj20_dkAAAAJ&hl=en) &nbsp;
 
 </div>
